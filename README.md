@@ -1,7 +1,7 @@
 # VectraBank Financial Services Architecture
 
 ## Executive Summary
-As the Lead AI Engineer, I designed this production deployment architecture for VectraBank's multi-agent financial services application. The design ensures strict regulatory compliance, optimizes model costs by 45%, and establishes clear, actionable operational procedures for the engineering team.
+I designed this production deployment architecture for VectraBank's multi-agent financial services application. The design ensures strict regulatory compliance, optimizes model costs by 45%, and establishes clear, actionable operational procedures for the engineering team.
 
 ## Architecture Highlights
 
@@ -56,4 +56,3 @@ Clone the repository and install dependencies:
 3. **Operational Maturity**: Documented runbooks ensure consistent, rapid response to production incidents.
 
 ---
-*Project developed for Udacity Module 10 Exercise: Plan a Production Deployment Architecture.*
